@@ -21,7 +21,7 @@ This repository contains all my classwork, homework assignments, and mini-projec
 * **Language:** JDK 24
 * **IDE used:** IntelliJ IDEA
 * **Version Control:** Git & GitHub
-* 
+  
 ---
 
 ## 🌟 Featured Projects
