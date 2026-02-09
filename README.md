@@ -13,7 +13,7 @@
 
 ## 📚 Repository Overview
 
-This repository contains all my classwork, homework assignments, and mini-projects starting from **February**. It acts as a portfolio of my growth from basic syntax to more complex Object-Oriented Programming concepts.
+This repository contains all my classwork, homework assignments, and mini-projects starting from **February**.
 
 ### 🛠️ Tech Stack & Tools
 * **Language:** JDK 24
