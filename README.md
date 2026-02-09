@@ -28,6 +28,3 @@ This repository contains all my classwork, homework assignments, and mini-projec
 * **Description:** )=
 
 ---
-
-git installation command:__
-[winget install --id Git.Git -e --source winget](winget install --id Git.Git -e --source winget)
