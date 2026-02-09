@@ -6,10 +6,8 @@
 
 ## 👨‍💻 About Me
 
-**Name:** Alon Serphos
-**School:** Leyada
-
-Hi there! 👋 I am currently an 11th-grade student diving deep into Computer Science. This repository serves as a documentation of my progress, logic, and coding habits as I learn Java.
+* **Name:** Alon Serphos
+* **School:** Leyada
 
 ---
 
