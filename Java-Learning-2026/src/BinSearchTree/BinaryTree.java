@@ -1,4 +1,4 @@
-package BinTreeTasks;
+package BinSearchTree;
 //Alon Serphos
 public class BinaryTree<T> {
     protected BinNode<T> root;

@@ -1,4 +1,6 @@
-import javax.swing.*;
+package TreeTasks;
+
+import UsefulFiles.BinNode;
 
 public class TreeTasks {
     public static void main(String[] args) {

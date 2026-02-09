@@ -1,4 +1,4 @@
-package BinTreeTasks;
+package BinSearchTree;
 //Alon Serphos
 public class BinNode<T> {
     private BinNode<T> left;

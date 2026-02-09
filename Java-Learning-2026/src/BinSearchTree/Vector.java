@@ -1,4 +1,4 @@
-package BinTreeTasks;
+package BinSearchTree;
 //Alon Serphos
 public class Vector implements Comparable<Vector> {
     private double x;

@@ -1,3 +1,5 @@
+package UsefulFiles;
+
 public class BinNode<T> {
     BinNode<T> left;
     BinNode<T> right;

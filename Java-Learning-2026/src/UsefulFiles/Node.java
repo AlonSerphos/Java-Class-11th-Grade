@@ -1,4 +1,6 @@
-public class Node<T>{
+package UsefulFiles;
+
+public class Node<T> {
     private Node<T> next;
     private T x;
 
@@ -16,7 +18,7 @@ public class Node<T>{
         return x;
     }
 
-    public Node<T> getNext (){
+    public Node<T> getNext() {
         return next;
     }
 

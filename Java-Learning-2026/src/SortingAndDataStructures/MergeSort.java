@@ -1,3 +1,6 @@
+package SortingAndDataStructures;
+
+import UsefulFiles.Node;
 
 public class MergeSort {
     public static void main(String[] args) {
