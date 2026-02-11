@@ -28,3 +28,6 @@ This repository contains all my classwork, homework assignments, and mini-projec
 * **Description:** )=
 
 ---
+
+* winget install --id Git.Git -e --source winget
+* git install https://github.com/AlonSerphos/Java-Class-11th-Grade.git
