@@ -29,5 +29,9 @@ This repository contains all my classwork, homework assignments, and mini-projec
 
 ---
 
+### On Intellij:
+
 * winget install --id Git.Git -e --source winget
+* cd ..
+* cd..
 * git clone https://github.com/AlonSerphos/Java-Class-11th-Grade.git
